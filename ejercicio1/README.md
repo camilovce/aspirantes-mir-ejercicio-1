@@ -17,3 +17,6 @@
    git commit -m "Agrega solución primer ejercicio"
 12.
 13. git remote add origin https://github.com/camilovce/aspirantes-mir-ejercicio-1.git
+    git add .
+    git commit -m "Agrega solución primer ejercicio 1"
+    git push -u origin master
